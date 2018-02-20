@@ -3,13 +3,10 @@ A Php voting system I did last year using the Laravel framework....
 
 TOOLS USED FOR CODING AND TESTING 
 The tools that I used for coding and testing are:
+
 i)	Laravel 5: Laravel is a Php framework that use the MVC (model ,view ,controllers) paradigm in developing web application 
-
-
-ii)	Xampp 5.6.3 - is a free and open source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
-
+ii)	Xampp 5.6.3 
 iii)	Visual Studio Code-  text editor.
-
 iv)	Git
 
 
