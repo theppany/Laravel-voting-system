@@ -14,7 +14,7 @@ Below is an installation guide:
 ```
 1.	Make sure you have Xampp or Wamp installed in your machine, Laravel 5, Git and composer need also be already installed.
 
-2.	Start the Git bash on the root folder and type : “ php artisan serve”, of which will start a Laravel development server on the local host at port 8000 
+2.	Open bash on the root folder and type : “ php artisan serve”, of which will start a Laravel development server on the local host at port 8000 
   
 3.	Afterwards, start apache
 
