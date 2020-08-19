@@ -26,7 +26,7 @@
                         
                     </button>
                     <a class="navbar-brand" href=>
-                        <h1>IVOTE</h1>
+                        <h1>POLLING SYSTEM</h1>
 
                     </a>
                     

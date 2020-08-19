@@ -11,7 +11,7 @@
 
             <form action="{{route('login')}}" method="POST" class="sky-form">
                 {{csrf_field()}}
-                <header>   Student Verification <img src="img/logo.png"></header>
+                <center><header>   Polling System<br/> <img src="img/logo.png"></header></center>
 
                 <fieldset>
                     <section>

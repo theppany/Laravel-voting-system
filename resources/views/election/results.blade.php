@@ -11,7 +11,7 @@
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <a class="navbar-brand page-scroll" href="index.php">Ivote</a>
+                <a class="navbar-brand page-scroll" href="index.php">POLLING SYSTEM</a>
             </div>
     {{Html::script('bower_components/chart.js/dist/Chart.js')}}
 <canvas id="presidentials"class="Rcontainer" width="80%" height="20%" ></canvas>
@@ -31,7 +31,7 @@ var myChart = new Chart(ctx, {
                 '{{$presidential->name}}',
             @endforeach],
         datasets: [{
-            label: 'Presidential Results',
+            label: 'Red',
             data: [
                 @foreach($presidentials as $presidential)
                     {{$presidential->votes}},
@@ -82,7 +82,7 @@ var myChart = new Chart(ctx, {
                 '{{$vice->name}}',
             @endforeach],
         datasets: [{
-            label: 'Vice-Chairperson results',
+            label: 'Green',
             data: [
                 @foreach($vices as $vice)
                     {{$vice->votes}},

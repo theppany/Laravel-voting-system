@@ -17,7 +17,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> About<i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Ivote</a>
+                <a class="navbar-brand page-scroll" href="#page-top">POLLING SYSTEM</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -47,7 +47,7 @@
         <div class="header-content">
             <div class="header-content-inner">
                 <h1 id="homeHeading"><l>Holla</l>.</h1>
-                <p>Welcome to <b>ivote</b> where you <b>easily</b> place your vote from <b>anywhere</b>. Click below to <b>vote</b> or see the <b>results</b> for this  year's JKUAT elections.</p>
+                <p>Welcome to <b>POLLING SYSTEM</b> Click below to <b>vote</b> or see the <b>results</b>.</p>
                <break></break> <a href="{{route('show')}}" class="btn btn-primary btn-xl page-scroll">vote</a><break></break>
                <break></break> <a href="{{route('results')}}" class="btn btn-primary btn-xl page-scroll">see results</a><break></break>
             </div>
@@ -58,10 +58,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">The fatest and easiest way to vote!</h2>
+                    <h2 class="section-heading">polling system</h2>
                     
-                    <p class="text-faded">This project entails an online system that allows registered voters to log in and vote wisely for the candidate agreed upon. The voters will be able to vote at ease and efficiently at any area provided there is internet connection.
-This website system allows voters to view the lists of candidates in the area. The voters will also be able to see detailed information of each candidate (e.g. their CV) which will enable them to vote wisely. Voters will be required to register online using their identity cards. Admin log in will be handled by the electoral commission. Each voter will have a unique password which will be used in liaison with his/her ID number when logging in the system. The voters will only be allowed to vote once, afterwards the system will not allow logging in a voter who has already voted, therefore reducing double voting irregularities. The software system allows the Candidate to login in to their profiles and upload all their details including their previous milestone onto the system. The admin can check each Candidate details and verify the documents, only after verifying Candidate’s ID and Password will be generated, and can remove faulty accounts The system will also be summing up the voting results in real time hence reducing the time taken calculating the total votes.
+                    <p class="text-faded">
+              
 </p>
 
                 </div>

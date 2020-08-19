@@ -5,7 +5,7 @@ html, body {
     background-attachment: fixed;
     background-position: 50% 50%;
     background-size: cover;
-    background-color: #f84242;
+    background-color: #42ddf8;
 }
 
 a:hover {
@@ -53,7 +53,7 @@ img {
     background: rgba(248,248,248,.9);
     font-size: 25px;
     font-weight: 300;
-    color: #232323;
+    color: #42ddf8;
 }
 .sky-form fieldset {
     display: block;
@@ -379,7 +379,7 @@ img {
     text-decoration: none;
     color: white;
     cursor: pointer;
-    background-color: #f84242;
+    background-color: #42ddf8;
 
 }
 
@@ -426,7 +426,7 @@ img {
 
 
 .sky-form .button {
-    background-color: #f84242;
+    background-color: #42ddf8;
     opacity: 0.8;
     transition: opacity 0.2s;
     -o-transition: opacity 0.2s;
@@ -439,7 +439,7 @@ img {
 }
 .sky-form .icon-append,
 .sky-form .icon-prepend {
-    color: #f84242;
+    color: #42ddf8;
 }
 
 
@@ -484,7 +484,7 @@ label3{
    height: 34px;
    overflow: hidden;
    border: 1px solid #ccc;
-   color:#232323;
+   color:#42ddf8;
    margin-left: 40px;
    margin-bottom: 20px;
     font-family: 'Open Sans',segoe ui;

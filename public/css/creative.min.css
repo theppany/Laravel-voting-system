@@ -37,7 +37,7 @@ border-color:#fff
 }
 a{
 transition:all .35s;
-color:#f84242
+color:#42ddf8
 }
 a:focus,a:hover{
 color:#eb3812}
@@ -47,7 +47,7 @@ line-height:1.5;
 margin-bottom:20px
 }
 .bg-primary{
-background-color:#f84242
+background-color:#42ddf8
 }
 .bg-dark{background-color:#222;
 color:#fff
@@ -76,7 +76,7 @@ transition:all .35s
 -moz-transition:all .35s
 }
 .navbar-default .navbar-header .navbar-brand{
-color:#f84242;
+color:#42ddf8;
 font-weight:700;
 text-transform:uppercase
 }
@@ -93,9 +93,9 @@ font-weight:700;
 font-size:13px;
 color:#222}
 .navbar-default .nav>li>a:focus:hover,.navbar-default .nav>li>a:hover{
-color:#f84242}
+color:#42ddf8}
 .navbar-default .nav>li.active>a,.navbar-default .nav>li.active>a:focus{
-color:#f84242!important;background-color:transparent}
+color:#42ddf8!important;background-color:transparent}
 .navbar-default .nav>li.active>a:focus:hover,.navbar-default .nav>li.active>a:hover{
 background-color:transparent}
 @media (min-width:768px){
@@ -113,13 +113,13 @@ color:#fff}
 .navbar-default.affix{
 background-color:#fff;border-color:rgba(34,34,34,.05)}
 .navbar-default.affix .navbar-header .navbar-brand{
-color:#f84242;font-size:14px}
+color:#42ddf8;font-size:14px}
 .navbar-default.affix .navbar-header .navbar-brand:focus,.navbar-default.affix .navbar-header .navbar-brand:hover{
 color:#eb3812}
 .navbar-default.affix .nav>li>a,.navbar-default.affix .nav>li>a:focus{
 color:#222}
 .navbar-default.affix .nav>li>a:focus:hover,.navbar-default.affix .nav>li>a:hover{
-color:#f84242}}
+color:#42ddf8}}
 header{
 min-height:auto;
 -webkit-background-size:cover;
@@ -239,7 +239,7 @@ font-size:16px}
 {font-size:22px}}
 .call-to-action h2{
 margin:0 auto 20px}
-.text-primary{color:#f84242}
+.text-primary{color:#42ddf8}
 .no-gutter>[class*=col-]{
 padding-right:0;
 padding-left:0}

@@ -13,7 +13,7 @@
 
             <form action="{{route('vote')}}"  method="POST" class="sky-form">
                 {{csrf_field()}}
-                <header>JKUAT's president {{Html::image('img/logo.png','',['padding'=>'200px'])}}</header>
+                <header>Polling System {{Html::image('img/logo.png','',['padding'=>'200px'])}}</header>
                 <input type="hidden" name="id" value="{{Auth::user()->id}}">
                 <fieldset>
                  <select name="president" class="select">
@@ -25,7 +25,7 @@
                                </select>
                 </fieldset>
 
-                <header>Vice chairpesron</header>
+                <header>Red</header>
                  <fieldset>
                  <select class="select" name="vice">
                         @foreach($vices as $vice)
@@ -35,7 +35,7 @@
                                </select>
                 </fieldset>
 
-            <header>Secretary General</header>
+            <header>Green</header>
              <fieldset>
                  <select class="select" name="secretary">
                          @foreach($secs as $sec)
@@ -45,7 +45,7 @@
                                </select>
                 </fieldset>
 
-            <header>Finance secretary</header>
+            <header>Blue</header>
             <fieldset>
                  <select class="select" name="finance">
                          @foreach($finances as $finance)
